@@ -5,6 +5,8 @@
 ---
 I am currently a Senior Researcher of XR Vision Labs at Tencent. I am currently a Senior Researcher at XR Vision Labs, Tencent. My research interests lie in robotic vision, particularly in visual odometry/SLAM for multi-camera systems and event-based cameras, as well as AI-generated content (AIGC).
 
+Previously, I was a Ph.D. student at Australian National University from Mar. 2016 to Oct. 2020, advised by Prof. Laurent Kneip and Prof. Hongdong Li. Before that, I received my Bachelor’s Degree in Engineering from Australian National University and Beijing Institute of Technology in Dec. 2015 and Jun. 2016 respectively.
+
 ### [My Google Scholar Citations](https://scholar.google.com.au/citations?user=_0BWh_8AAAAJ=en)
 
 <p align="left"> <img src="https://vercel-citations.vercel.app/api/simple?id=_0BWh_8AAAAJ" alt="Citation History" width="600"/> </p>

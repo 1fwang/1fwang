@@ -10,7 +10,7 @@ I am currently a Senior Researcher of XR Vision Labs at Tencent. I am currently 
 
 This README borrows the template from inkyu's [homepage](https://github.com/inkyusa/inkyusa). If you want to use this in your project, please have a look this [repo](https://github.com/inkyusa/google_scholar_citations)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inkyusa&label=Profile%20views&color=0e75b6&style=flat-square" alt="inkyusa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1fwang&label=Profile%20views&color=0e75b6&style=flat-square" alt="1fwang" /> </p>
 
 ### Github stats
 ---

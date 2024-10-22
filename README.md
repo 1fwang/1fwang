@@ -23,4 +23,4 @@ This README borrows the template from inkyu's [homepage](https://github.com/inky
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1fwang&theme=dark" alt="1fwang" /></p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1fwang&layout=compact&theme=dark" alt="1fwang" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1fwang&layout=compact&theme=dark" alt="1fwang" /></p> -->
